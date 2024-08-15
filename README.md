@@ -1,12 +1,12 @@
 # Botanical Illustration Analysis Tools
 
-This repository contains Python scripts for downloading, analyzing, and processing botanical illustrations. Key functionalities include image downloading, color analysis through sampling and KNN, as well as resizing and cropping.
+This repository contains Python scripts for downloading, analyzing, and processing botanical illustrations made availabe on the [ONB Labs website](https://labs.onb.ac.at/en/datasets/botanical-illustrations/)
 
 ## Features
 
-- **Image Downloading**: Scripts to download botanical illustrations from specified URLs.
-- **Color Analysis**: Analyze dominant colors using sampling and K-Nearest Neighbors (KNN).
-- **Image Processing**: Resize and crop images for consistent analysis.
+- **Image Downloading**: Script to download botanical illustrations from specified URL
+- **Color Analysis**: Analyze dominant colors using sampling and K-Nearest Neighbors (KNN)
+- **Image Processing**: Resize and crop images for consistent analysis for further processing
 
 ## Installation
 

@@ -5,7 +5,7 @@ This repository contains Python scripts for downloading, analyzing, and processi
 ## Features
 
 - **Image Downloading**: Script to download botanical illustrations from specified URL
-- **Color Analysis**: Analyze dominant colors using sampling and K-Nearest Neighbors (KNN)
+- **Color Analysis**: Analyze dominant colors using sampling and k-means
 - **Image Processing**: Resize and crop images for consistent analysis for further processing
 
 ## Installation
